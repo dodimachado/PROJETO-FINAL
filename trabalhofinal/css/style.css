@@ -1,0 +1,57 @@
+.titulo{
+  margin: 0 0 10px  0;
+  padding: 10px 0 10px 0;
+  border-bottom: 1px solid #828282;
+}
+.titulogestor{
+  margin: 8 0;
+}
+nav{
+  background-color: #c4c4c4;
+}
+
+.container{
+  padding: 0 10px 0 10px;
+  background-color: white;
+  min-width: 317px;
+}
+
+.bgcolor{
+}
+
+.divmenu{
+  background-color: #c4c4c4;
+}
+
+.menu{
+  padding: 0;
+}
+
+.logo{
+  height: 30px;
+}
+
+.barra{
+  margin: 0;
+  padding: 0;
+}
+.linktabela{
+  padding: 0;
+}
+.despesa{
+  color: red;
+}
+.data{
+  width: 30vw;
+}
+.filtro{
+  text-decoration: none;
+  list-style: none;
+  padding: 0;
+}
+.filtro li{
+  display: inline;
+}
+.filtro li input{
+  display: inline;
+}
